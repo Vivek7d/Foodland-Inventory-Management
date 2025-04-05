@@ -37,10 +37,13 @@
     "@radix-ui/react-toggle": "^1.1.1",
     "@radix-ui/react-toggle-group": "^1.1.1",
     "@radix-ui/react-tooltip": "^1.1.6",
+<<<<<<< HEAD
     "@tensorflow-models/blazeface": "^0.1.0",
     "@tensorflow/tfjs": "^4.22.0",
     "@tensorflow/tfjs-backend-cpu": "^4.22.0",
     "@tensorflow/tfjs-backend-webgl": "^4.22.0",
+=======
+>>>>>>> 476b3dd8d1de004ae9e2ce54f8c6dc316c1f2aab
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "autoprefixer": "^10.4.20",
@@ -57,7 +60,10 @@
     "react-day-picker": "^9.6.4",
     "react-dom": "^18",
     "react-hook-form": "^7.54.1",
+<<<<<<< HEAD
     "react-hot-toast": "^2.5.2",
+=======
+>>>>>>> 476b3dd8d1de004ae9e2ce54f8c6dc316c1f2aab
     "react-resizable-panels": "^2.1.7",
     "recharts": "latest",
     "sonner": "^1.7.1",
